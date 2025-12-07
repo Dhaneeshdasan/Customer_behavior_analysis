@@ -1,0 +1,2 @@
+This project showcases an end-to-end data analytics workflow using Power BI. It covers loading customer data, cleaning and preparing it, creating DAX measures, and building an interactive dashboard that reveals insights into customer behavior, spending patterns, demographics, and product category performance.
+The goal is to demonstrate strong skills in data analysis, visualization, and BI reportin
